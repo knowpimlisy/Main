@@ -6,3 +6,4 @@ Krnl / Synapse x
 - LUCKY BLOCKS Battlegrounds
 - Tower of Misery
 - Vehicle Simulator
+- Car Crushers 2

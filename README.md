@@ -7,3 +7,4 @@ Krnl / Synapse x
 - Tower of Misery
 - Vehicle Simulator
 - Car Crushers 2
+- SharkBite

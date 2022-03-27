@@ -8,3 +8,4 @@ Krnl / Synapse x
 - Vehicle Simulator
 - Car Crushers 2
 - SharkBite
+- Natural Disaster Survival

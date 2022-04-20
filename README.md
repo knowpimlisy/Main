@@ -9,3 +9,4 @@ Krnl / Synapse x
 - Car Crushers 2
 - SharkBite
 - Natural Disaster Survival
+- Legends Of Speed

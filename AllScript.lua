@@ -17,7 +17,9 @@ elseif PlaceId == 189707 then
 elseif PlaceId == 3101667897 then 
 	loadstring(game:HttpGet"https://raw.githubusercontent.com/Knowscript/main/main/Legends%20Of%20Speed")()
 elseif PlaceId == 5149673492 then 
-	loadstring(game:HttpGet"https://raw.githubusercontent.com/Knowscript/main/main/Build%20to%20survive%20the%20Bombs.lua")()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/Knowscript/main/main/BuildtosurvivetheBombs.lua")()
+elseif PlaceId == 6191637341 then
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/Knowscript/main/main/WeaponSimulator2.lua")()
 else
 	game.Players.LocalPlayer:kick("\nThis game is not Supported\ndiscord.gg/uB8KYHQ7yw")
 	wait(1)

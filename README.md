@@ -11,3 +11,4 @@ Krnl / Synapse x
 - Natural Disaster Survival
 - Legends Of Speed
 - Build to survive the Bombs
+- Weapon Simulator 2
